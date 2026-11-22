@@ -1,6 +1,6 @@
 cask "vsvibe" do
-  version "0.3.1"
-  sha256 "246526021d4a70fffaebe06fa0a4d3166a7fdb466b2a85a435790daf4f9ae94f"
+  version "0.3.2"
+  sha256 "8aec36701aa43023744b64f12bdbee7ecc9395fa71b357efa4bca9e385585210"
 
   url "https://github.com/Mc231/vsvibe/releases/download/v#{version}/VSVibe-#{version}.dmg"
   name "VSVibe"
